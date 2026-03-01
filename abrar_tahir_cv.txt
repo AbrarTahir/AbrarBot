@@ -1,0 +1,114 @@
+Abrar Tahir 
+
+Contact Information
+
+
+Home: Lahore, Pakistan 
+
+
+Phone: (+92) 3143656788 
+
+
+Email: abrartahir789@gmail.com 
+
+
+LinkedIn: www.linkedin.com/in/abrar-tahir 
+
+
+GitHub: https://github.com/Abrar Tahir 
+
+About Myself
+Software Engineering student skilled in Python, Machine Learning, and web development with Django and Flask. Experienced in building data-driven, scalable applications by combining backend development and ML techniques.
++1
+
+Education and Training 
+
+
+Bachelor of Science in Software Engineering 
+
+
+Institution: UMT - University of Management And Technology 
+
+
+Duration: 2022-Current 
+
+
+Location: Lahore, Pakistan 
+
+
+Expected Graduation: 2026 
+
+
+Cambridge International AS and A Levels 
+
+
+Institution: Classic School System 
+
+
+Field(s) of study: Pre - Engineering 
+
+
+Location: Slalkot, Pakistan 
+
+Skills 
+
+Technical Skills
+
+Python, SQL, Django 
+
+NumPy 
+
+Flask, REST APIs, Machine Learning, Scikit-learn, Pandas 
+
+TensorFlow, Git/Github, HTML, CSS, JavaScript 
+
+
+Additional Skills 
+
+Problem Solving, Adaptability, Continuous Learning, Team collaboration 
+
+Projects 
+
+
+AI Image Classification Web App 
+
+Built a web-based image classifier using VGG19 and Flask with SQLAlchemy for user authentication.
+
+Designed a responsive frontend for image uploads and displaying predictions.
+
+
+Link: https://github.com/Abrar Tahir/Al-Image-classification-system-With-flask 
+
+
+Email/SMS Spam Classifier Web App 
+
+Built a Streamlit-based app using NLTK preprocessing and TF-IDF with ML model to classify messages as Spam or Not Spam in real time.
+
+
+Link: https://github.com/AbrarTahir/Email-spam-prediction-internship-task 
+
+Certificates 
+
+
+Introduction to Machine Learning (Kaggle Certificate) 
+
+Completed a foundational ML course using scikit-learn, covering decision trees, random forests, model validation, and performance metrics.
+
+
+Link: https://www.kaggle.com/learn/certification/abrartahir/intro-to-machine-learning 
+
+
+Intermediate Machine Learning (Kaggle Certificate) 
+
+Completed an intermediate ML course on data preprocessing, pipelines, cross-validation, and model tuning with XGBoost on complex datasets.
+
+
+Link: https://www.kaggle.com/learn/certification/abrartahir/intermediate-machine-learning 
+
+
+Django for Everybody Specialization (Coursera) 
+
+Completed specialization in Django web development, covering MVT architecture, ORM, authentication, and deployment.
+
+
+Link: https://coursera.org/share/d91859e239ec0b1174576d5908c6f73b
